@@ -9,10 +9,10 @@
 
 ## Professional profile
 
-17-year experience manipulating data and transforming it into meaningful information to the business. Creator of profitable data-based products that exceed customer's or stakeholder’s requirements and expectations. Successful in the application of statistical methodologies, machine learning and AI to business processes. Also, an experienced 2<sup>nd</sup> level manager that can lead any team/department to achieve the defined goals successfully.
+17-year experience manipulating data and transforming it into meaningful information to the business. Creator of profitable data-based products that exceed customer's or stakeholder’s requirements and expectations. Successful in the application of statistical methodologies, machine learning and AI to business processes. Also, an experienced top level manager that can lead any team/department to achieve the defined goals successfully.
 
-## Leadership philospy
-As a strategic leader, I believe in setting a clear vision and direction while empowering teams to execute with autonomy. My leadership style is rooted in leading by example, maintaining a helicopter view of operations, and fostering an environment of accountability and continuous improvement. I am not afraid to roll up my sleeves and work alongside my teams when needed, while also providing the necessary guidance, support, and resources for them to thrive.
+## Leadership philosophy
+As a strategic leader, I believe in setting a clear vision and direction while empowering teams to execute with autonomy. My leadership style is rooted in leading by example, maintaining a helicopter view of operations, and fostering an environment of accountability and continuous improvement. I am not afraid to roll up my sleeves and work alongside my teams when needed, while also providing the necessary guidance, support, and resources for them to succeed.
 
 
 ## Experienced on:
@@ -34,19 +34,22 @@ As a strategic leader, I believe in setting a clear vision and direction while e
 
 ### <img src="https://media.licdn.com/dms/image/D4D0BAQHD3kYXpbzDtQ/company-logo_100_100/0/1698766799419/maximusuk_logo?e=1717632000&v=beta&t=LYOoh6vPUvdI_AiHhtN_Z0IglOAKYHhQUAfOsT2e9PA" width=20> **Head of Data and Analytics - Solutions**
 
-#### *Outline*
-As part of the Technology department and leading Maximus's Central / Connect Assist / Health verticals in terms of Data & Analytics needs, with functional responsibility over data science, data architecture/engineering and global BI visualisation.
+*Outline*
 
-#### *Key Responsibilities*
+As part of the Technology department and leading Maximus's Central / Connect Assist / Health verticals in terms of Data & Analytics needs, with functional responsibility over data science, data architecture/engineering and global Business Intelligence and Visualisation.
+
+*Key Responsibilities*
+
  - AI roadmap and implementation
  - Grow the team by attracting the best talent
  - Design and oversee solutions for bids and data products
  - In a matrix setup, work with all verticals to share resources and align methodologies
  - Lead and develop a growing team
 
-#### Key Achievements
- - Established of working for the Data Solutions team and 
- - Central Data Layer: platform that unifies all data for reporting and data science (solution in Azure with Governance and Security considerations)
+*Key Achievements*
+
+ - Established ways of working for the Data Solutions team 
+ - Central Data Layer: platform that unifies all data for reporting and data science (solution in Azure with built-in Governance and Security)
 
 ----------------------------
   
@@ -61,7 +64,7 @@ As part of the Technology department and leading Maximus's Central / Connect Ass
 
 *Outline*
 
-As part of the **Data Office**, this is a hands-on and strategic leadership role to guide a team that performs data preparation, providing analytically ready data products across TA’s.
+As part of the **R&D Data Office**, this is a hands-on and strategic leadership role to guide a team that performs data preparation, providing analytically ready data products across TA’s.
 
  (Strategy secondment from March to September 2023) At Senior Director level and combining the responsibilities of Analytics Data Preparation leadership and the **Data Strategy** for the Medical Affairs Oncology Business Unit -  Real World Evidence for Europe and Canada (EUCAN).
 
@@ -69,13 +72,13 @@ As part of the **Data Office**, this is a hands-on and strategic leadership role
 
 - Grow the team from **1 to 11 FTE** in the first year to match scorecard objectives
 - Establish team ways of working and develop working processes with other departments
-- Be the Data Office technical leads on programming (R, Python), AWS and other computing environments (i.e., using EMR clusters and PySpark)
+- Be the R&D Data Office technical leads on programming (R, Python), AWS and other computing environments (i.e., using EMR clusters and PySpark)
 - Perform data transformation to deliver clinical studies (and other data) to our customers in the environments that they use
 - Prepare and mentor the team to be Data Science savvy to meet customer requirements
 - Personally lead and execute Oncology data preparation 
 - Lead key initiatives for the Data Office – Anonymisation / Synthetic Data
 - (Strategy) Proactively manage US RWD stakeholders, vendor selection, contract, and performance
-- (Strategy) Serve as POC for tumour data board activities (e.g., workstreams)
+- (Strategy) Serve as point of contact for tumour data board activities (e.g., workstreams)
 - (Strategy) Own the conceptualization, development and senior leader approval for oncology data strategy for EUCAN
 
 *Key Achievements/Projects*
@@ -84,7 +87,7 @@ As part of the **Data Office**, this is a hands-on and strategic leadership role
 - Creation of Synthetic Clinical Data immediately available (F.A.I.R.) with over 2 million pounds of cost avoidance savings – more than 25 projects enabled
 - Development of Hub Software with aim to scale to **AI Solutions**
 - 65 projects enabled in 2022, 40 of those with direct pipeline impact on BioPharma and Oncology R&D. In 2023, I achieved 95% pipeline impact in over 55 projects
-- Astrazeneca **R&D Award winner** for outstanding achievements on **Clinical Trial Diversity** at site level
+- Astrazeneca **R&D Award winner** for outstanding data delivery on **Clinical Trial Diversity** at site level
 
 ----------------------------
 
@@ -111,7 +114,7 @@ As a member of the board, reporting to the CEO, my mission is to build a Data/Da
 
 *Key Achievements/Projects*
 
-- Created 100% Open Banking Predictive model to tackle COVID uncertainty over *bureau* data
+- Created **100% Open Banking Predictive model** to tackle COVID uncertainty over *bureau* data
 - Delivered Company-wide Data Platform v1 with automation, governance and a form of data mesh as guiding principles
 
 ----------------------------
@@ -248,7 +251,7 @@ Analyst for the recently created Banking and Viewsbank (website) divisions. Desi
 
 *Outline*
 
-**Managing a team** of 3 analysts we delivered data projects in the field of market research and pharmaceutical consulting. Responsible for developing new business methodologies and internal tools to improve efficiency. Successfully generated new revenue stream by applying **Artificial Neural Networks** to a disrupting market innovative **Deep Learning based Segmentation**. Taking advantage of multiple data sources to create QlikView and Tableau dashboards and using **ARIMA models** to predict sales.
+**Managing a team** of 3 analysts we delivered data projects in the field of market research and pharmaceutical consulting. Responsible for developing new business methodologies and internal tools to improve efficiency. Successfully generated new revenue stream by applying **Artificial Neural Networks** to disrupt the market with an innovative **Deep Learning based Segmentation**. Also combined multiple data sources to create QlikView and Tableau dashboards and used **ARIMA models** to predict sales.
 
 ----------------------------
 
