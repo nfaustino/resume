@@ -12,6 +12,7 @@
 17-year experience manipulating data and transforming it into meaningful information to the business. Creator of profitable data-based products that exceed customer's or stakeholder’s requirements and expectations. Successful in the application of statistical methodologies, machine learning and AI to business processes. Also, an experienced top level manager that can lead any team/department to achieve the defined goals successfully.
 
 ## Leadership philosophy
+
 As a strategic leader, I believe in setting a clear vision and direction while empowering teams to execute with autonomy. My leadership style is rooted in leading by example, maintaining a helicopter view of operations, and fostering an environment of accountability and continuous improvement. I am not afraid to roll up my sleeves and work alongside my teams when needed, while also providing the necessary guidance, support, and resources for them to succeed.
 
 
@@ -48,7 +49,6 @@ As part of the Technology department and leading Maximus's Central / Connect Ass
 
 *Key Achievements*
 
- - Established ways of working for the Data Solutions team 
  - Central Data Layer: platform that unifies all data for reporting and data science (solution in Azure with built-in Governance and Security)
 
 ----------------------------
@@ -66,7 +66,7 @@ As part of the Technology department and leading Maximus's Central / Connect Ass
 
 As part of the **R&D Data Office**, this is a hands-on and strategic leadership role to guide a team that performs data preparation, providing analytically ready data products across TA’s.
 
- (Strategy secondment from March to September 2023) At Senior Director level and combining the responsibilities of Analytics Data Preparation leadership and the **Data Strategy** for the Medical Affairs Oncology Business Unit -  Real World Evidence for Europe and Canada (EUCAN).
+From March to September 2023 acumulated senior director responsabilitis on **Data Strategy** for the Medical Affairs Oncology Business Unit -  Real World Evidence for Europe and Canada (EUCAN).
 
 *Key Responsibilities*
 
@@ -159,22 +159,7 @@ Leading the data scientists' team in London to develop innovative tools that wil
 
 *Outline*
 
-Data provider and statistical analyst to multiple stakeholders on the business, while managing **Data Science projects**.
-
-*Key Responsibilities*
-
-- Work with stakeholders and product managers to create reports and provide necessary data
-- Identify appropriate data points, collect data from multiple systems, analyse data integrity
-- Querying **BigData** databases to retrieve historical poker hands data
-- Determining risk of abuse prediction modeling and player segmentation
-- Make dashboards and present findings using Tableau, SSRS, MicroStrategy or QlikSense
-- Use Statistical tools/packages (**R, KNIME, Python**) and **Machine Learning** algorithms in special projects across the business and **AB testing**
-
-*Key Achievements/Projects*
-
-- Predicted players’ next deposit (**Auto Regression Time Series** based model) used to determine adequate promotions for players that lead to UX gains
-- Fraud system scorecard implementation (impact analysis and optimization of the rule based algorithm – benchmark against **Gradient Boosting** model) 
-- Created a reporting system with KPI for Support (Agents, Managers and Directors) tha lead to significant performance increase and improvement area identification
+Data provider and statistical analyst to multiple business stakeholders, while managing **Data Science projects** using **R, KNIME, Python** and **Machine Learning** algorithmsm while quering **BigData** databases.
 
 ----------------------------
 
